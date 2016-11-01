@@ -10,7 +10,7 @@
 //: In swift, you create variables like this:
 
 var greeting = "Hello, world!"
-
+  
 //: There are three important parts to creating a variable: 1) writing `var` to show you are creating a new variable, 2) naming the variable,
 //: and 3) the data stored inside the variable
 //: In the example above, the name of the variable is `greeting` and the value is a string "Hello, world!"
@@ -97,7 +97,7 @@ var height: Double = 10
 //:
 //: It may not be obvious, but the types we are using, `String`, `Int`, and `Double` all have methods, or bits of code, you can ask them to run. `Float` and `Int` have a pretty minimal set of things they can do, but `String` has a lot!
 //:
-//: Write out the name of a variable, e.g. `greeting`, and then a period. This will show the autocomplete menu. From this list you can pick `uppercaseString` and `lowercaseString` to change the case of the characters in our greeting.
+//: Write out the name of a variable, e.g. `greeting`, and then a period. This will show the autocomplete menu. From this list you can pick `uppercased` and `lowercased` to change the case of the characters in our greeting.
 //:
 //: Print out the uppercase and lowercase versions of the string below:
 
