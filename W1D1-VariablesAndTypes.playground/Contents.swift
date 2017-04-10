@@ -85,6 +85,7 @@ var isOpen = true
 
 var height: Double = 10
 
+//: ### Challenge 4
 //: Since all our variables have types, even if we haven't specifically set them, we can't store any value in them... only values of the right type.
 //: Test this out. Try setting the value of `count` to be `height`:
 
